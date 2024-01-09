@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dark-Souls-Character-Builder-gh-pages/static/css/main.d8bf5705.css",
-    "main.js": "/Dark-Souls-Character-Builder-gh-pages/static/js/main.eb06fe3b.js",
+    "main.css": "/Dark-Souls-Character-Builder-gh-pages/static/css/main.2ddfe7db.css",
+    "main.js": "/Dark-Souls-Character-Builder-gh-pages/static/js/main.722e76bc.js",
     "static/js/787.936a02b4.chunk.js": "/Dark-Souls-Character-Builder-gh-pages/static/js/787.936a02b4.chunk.js",
     "index.html": "/Dark-Souls-Character-Builder-gh-pages/index.html",
-    "main.d8bf5705.css.map": "/Dark-Souls-Character-Builder-gh-pages/static/css/main.d8bf5705.css.map",
-    "main.eb06fe3b.js.map": "/Dark-Souls-Character-Builder-gh-pages/static/js/main.eb06fe3b.js.map",
+    "main.2ddfe7db.css.map": "/Dark-Souls-Character-Builder-gh-pages/static/css/main.2ddfe7db.css.map",
+    "main.722e76bc.js.map": "/Dark-Souls-Character-Builder-gh-pages/static/js/main.722e76bc.js.map",
     "787.936a02b4.chunk.js.map": "/Dark-Souls-Character-Builder-gh-pages/static/js/787.936a02b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8bf5705.css",
-    "static/js/main.eb06fe3b.js"
+    "static/css/main.2ddfe7db.css",
+    "static/js/main.722e76bc.js"
   ]
 }
